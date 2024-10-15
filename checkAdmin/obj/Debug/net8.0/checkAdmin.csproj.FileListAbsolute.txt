@@ -1,0 +1,15 @@
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/checkAdmin.GeneratedMSBuildEditorConfig.editorconfig
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/checkAdmin.AssemblyInfoInputs.cache
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/checkAdmin.AssemblyInfo.cs
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/checkAdmin.csproj.CoreCompileInputs.cache
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/checkAdmin.sourcelink.json
+/home/necmi/c#/c#Challenges/checkAdmin/bin/Debug/net8.0/checkAdmin
+/home/necmi/c#/c#Challenges/checkAdmin/bin/Debug/net8.0/checkAdmin.deps.json
+/home/necmi/c#/c#Challenges/checkAdmin/bin/Debug/net8.0/checkAdmin.runtimeconfig.json
+/home/necmi/c#/c#Challenges/checkAdmin/bin/Debug/net8.0/checkAdmin.dll
+/home/necmi/c#/c#Challenges/checkAdmin/bin/Debug/net8.0/checkAdmin.pdb
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/checkAdmin.dll
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/refint/checkAdmin.dll
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/checkAdmin.pdb
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/checkAdmin.genruntimeconfig.cache
+/home/necmi/c#/c#Challenges/checkAdmin/obj/Debug/net8.0/ref/checkAdmin.dll
