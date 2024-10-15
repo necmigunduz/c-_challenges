@@ -8,7 +8,6 @@ for (int i = 0; i < stringsCount; i++)
 {
     myString = myStrings[i];
     periodLocation = myString.IndexOf(".");
-    Console.WriteLine(periodLocation);
     string mySentence;
 
     while (periodLocation != -1)
@@ -17,7 +16,6 @@ for (int i = 0; i < stringsCount; i++)
         myString = myString.Substring(periodLocation + 1);
         myString = myString.TrimStart();
         periodLocation = myString.IndexOf(".");
-        Console.WriteLine(periodLocation);
         Console.WriteLine(mySentence);
     }
  

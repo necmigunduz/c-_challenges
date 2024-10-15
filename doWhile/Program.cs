@@ -91,7 +91,7 @@ do
             Console.WriteLine(res == true
                 ? $"You entered {readResult} and it is between 5 and 10."
                 : $"You entered {readResult}. Please enter a number between 5 and 10.");
-
+            validEntry = res ? true : false; 
         }
         else
         {
@@ -101,3 +101,4 @@ do
 
 } while (validEntry == false);
 
+Console.WriteLine($"Your input value ({readResult}) has been accepted.");
