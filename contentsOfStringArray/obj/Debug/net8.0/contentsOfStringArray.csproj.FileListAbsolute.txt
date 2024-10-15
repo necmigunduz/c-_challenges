@@ -1,0 +1,15 @@
+/home/necmi/c#/c#Challenges/contentsOfStringArray/bin/Debug/net8.0/contentsOfStringArray
+/home/necmi/c#/c#Challenges/contentsOfStringArray/bin/Debug/net8.0/contentsOfStringArray.deps.json
+/home/necmi/c#/c#Challenges/contentsOfStringArray/bin/Debug/net8.0/contentsOfStringArray.runtimeconfig.json
+/home/necmi/c#/c#Challenges/contentsOfStringArray/bin/Debug/net8.0/contentsOfStringArray.dll
+/home/necmi/c#/c#Challenges/contentsOfStringArray/bin/Debug/net8.0/contentsOfStringArray.pdb
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/contentsOfStringArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/contentsOfStringArray.AssemblyInfoInputs.cache
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/contentsOfStringArray.AssemblyInfo.cs
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/contentsOfStringArray.csproj.CoreCompileInputs.cache
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/contentsOfStringArray.sourcelink.json
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/contentsOfStringArray.dll
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/refint/contentsOfStringArray.dll
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/contentsOfStringArray.pdb
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/contentsOfStringArray.genruntimeconfig.cache
+/home/necmi/c#/c#Challenges/contentsOfStringArray/obj/Debug/net8.0/ref/contentsOfStringArray.dll
