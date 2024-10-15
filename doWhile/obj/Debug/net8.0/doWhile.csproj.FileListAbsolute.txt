@@ -1,0 +1,14 @@
+/home/necmi/c#/doWhile/bin/Debug/net8.0/doWhile
+/home/necmi/c#/doWhile/bin/Debug/net8.0/doWhile.deps.json
+/home/necmi/c#/doWhile/bin/Debug/net8.0/doWhile.runtimeconfig.json
+/home/necmi/c#/doWhile/bin/Debug/net8.0/doWhile.dll
+/home/necmi/c#/doWhile/bin/Debug/net8.0/doWhile.pdb
+/home/necmi/c#/doWhile/obj/Debug/net8.0/doWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/necmi/c#/doWhile/obj/Debug/net8.0/doWhile.AssemblyInfoInputs.cache
+/home/necmi/c#/doWhile/obj/Debug/net8.0/doWhile.AssemblyInfo.cs
+/home/necmi/c#/doWhile/obj/Debug/net8.0/doWhile.csproj.CoreCompileInputs.cache
+/home/necmi/c#/doWhile/obj/Debug/net8.0/doWhile.dll
+/home/necmi/c#/doWhile/obj/Debug/net8.0/refint/doWhile.dll
+/home/necmi/c#/doWhile/obj/Debug/net8.0/doWhile.pdb
+/home/necmi/c#/doWhile/obj/Debug/net8.0/doWhile.genruntimeconfig.cache
+/home/necmi/c#/doWhile/obj/Debug/net8.0/ref/doWhile.dll
